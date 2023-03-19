@@ -3,6 +3,8 @@
 
 A decision tree is a non-parametric supervised learning algorithm, which is utilized for both classification and regression tasks. 
 It has a hierarchical, tree structure, which consists of a root node, branches, internal nodes and leaf nodes.
+![image](https://user-images.githubusercontent.com/101656280/226159131-3844889b-2dd8-4e69-9dab-0484c0467af8.png)
+
 
 I have created a prediction model which is used to predict the new data. It is simple to represent the data in tree structure formate.
 On that,Using some libraries like,
